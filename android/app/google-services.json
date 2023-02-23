@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "101969942939",
+    "project_id": "pdf-manager-2b7c1",
+    "storage_bucket": "pdf-manager-2b7c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101969942939:android:90938326008c4f849d693e",
+        "android_client_info": {
+          "package_name": "com.pdf.editor.convertor.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "101969942939-jfsive587ed7uvij0o092e3b2qlpdj1n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDehR38m4-joucFaugEcFm-vf9OyZpigq4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "101969942939-jfsive587ed7uvij0o092e3b2qlpdj1n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
